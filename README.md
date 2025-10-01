@@ -1,3 +1,3 @@
-# ReasonMap
+# RewardMap
 
-The website for ReasonMap is hosted at: https://fscdc.github.io/ReasonMap/
+The website for RewardMap is hosted at: https://fscdc.github.io/RewardMap/
