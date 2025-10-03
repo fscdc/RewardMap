@@ -8,7 +8,7 @@
 ![](https://img.shields.io/github/forks/fscdc/RewardMap?color=lightblue)
 ![](https://img.shields.io/github/last-commit/fscdc/RewardMap?color=green)
 ![](https://img.shields.io/badge/PRs-Welcome-blue)
-<a href="" target="_blank"><img src="https://img.shields.io/badge/arXiv-TODO-009688.svg" alt="arXiv"></a>
+<a href="https://arxiv.org/abs/2510.02240" target="_blank"><img src="https://img.shields.io/badge/arXiv-2510.02240-009688.svg" alt="arXiv"></a>
 
 </div>
 
@@ -24,6 +24,7 @@
 
 ## Updates
 
+- 2025-10-03: 📢 Our paper "RewardMap: Tackling Sparse Rewards in Fine-grained Visual Reasoning via Multi-Stage Reinforcement Learning" is now available on [arXiv](https://arxiv.org/abs/2510.02240)!
 - 2025-10-01: 🚀 We released `RewardMap` and the corresponding [ReasonMap-Plus](https://huggingface.co/datasets/FSCCS/ReasonMap-Plus)!
 
 ## Usage
@@ -147,6 +148,9 @@ If you find this paper useful in your research, please consider citing our paper
 
 ```bibtex
 @article{feng2025rewardmap,
-  TODO
+  title={RewardMap: Tackling Sparse Rewards in Fine-grained Visual Reasoning via Multi-Stage Reinforcement Learning},
+  author={Feng, Sicheng and Tuo, Kaiwen and Wang, Song and Kong, Lingdong and Zhu, Jianke and Wang, Huan},
+  journal={arXiv preprint arXiv:2510.02240},
+  year={2025}
 }
 ```
