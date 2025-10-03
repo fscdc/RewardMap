@@ -131,7 +131,7 @@ We use [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) to evaluate our 
 ),
 ```
 
-Then run the following command under the `VLMEvalKit` repo::
+Then run the following command under the `VLMEvalKit` repo:
 
 ```bash
 # evaluate on other benchmarks
@@ -140,7 +140,7 @@ bash script/eval_other_benchmarks.sh
 
 ## Acknowledgement
 
-This source code is derived from the PyTorch reimplementation of [Seg-Zero](https://github.com/dvlab-research/Seg-Zero)
+This source code is derived from the PyTorch reimplementation of [Seg-Zero](https://github.com/dvlab-research/Seg-Zero).
 
 ## Citation
 
