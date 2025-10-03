@@ -12,6 +12,12 @@
 
 </div>
 
+<div align="center">
+
+**[<a href="https://huggingface.co/collections/FSCCS/reasonmap-688517b57d771707a5d64656">Dataset</a>]** **[<a href="https://huggingface.co/papers/2510.02240">HuggingFace Daily Paper</a>]**
+
+</div>
+
 ---
 
 >🙋 Please let us know if you find out a mistake or have any suggestions!
