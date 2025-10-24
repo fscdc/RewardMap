@@ -14,7 +14,7 @@
 
 <div align="center">
 
-**[<a href="https://huggingface.co/collections/FSCCS/reasonmap-688517b57d771707a5d64656">Dataset</a>]** **[<a href="https://huggingface.co/papers/2510.02240">HuggingFace Daily Paper</a>]**
+**[<a href="https://huggingface.co/collections/FSCCS/reasonmap-688517b57d771707a5d64656">Dataset</a>]** **[<a href="https://huggingface.co/papers/2510.02240">HuggingFace Daily Paper</a>]** **[<a href="https://mp.weixin.qq.com/s/jTnrxfZ7Secq1-ZO1mDMyg">机器之心</a>]**
 
 </div>
 
