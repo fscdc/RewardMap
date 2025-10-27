@@ -9,12 +9,13 @@
 ![](https://img.shields.io/github/last-commit/fscdc/RewardMap?color=green)
 ![](https://img.shields.io/badge/PRs-Welcome-blue)
 <a href="https://arxiv.org/abs/2510.02240" target="_blank"><img src="https://img.shields.io/badge/arXiv-2510.02240-009688.svg" alt="arXiv"></a>
+[![Dataset](https://img.shields.io/badge/🤗%20Huggingface-Dataset-yellow)](https://huggingface.co/collections/FSCCS/reasonmap)
 
 </div>
 
 <div align="center">
 
-**[<a href="https://huggingface.co/collections/FSCCS/reasonmap-688517b57d771707a5d64656">Dataset</a>]** **[<a href="https://huggingface.co/papers/2510.02240">HuggingFace Daily Paper</a>]** **[<a href="https://mp.weixin.qq.com/s/jTnrxfZ7Secq1-ZO1mDMyg">机器之心</a>]**
+**[<a href="https://huggingface.co/papers/2510.02240">HuggingFace Daily Paper</a>]** **[<a href="https://x.com/si_feng32704/status/1973968606468997410">Twitter</a>]** **[<a href="https://mp.weixin.qq.com/s/jTnrxfZ7Secq1-ZO1mDMyg">机器之心</a>]**
 
 </div>
 
