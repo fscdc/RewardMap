@@ -31,6 +31,7 @@
 
 ## Updates
 
+- 2025-10-27: 📢 You can use [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) to evaluate ReasonMap-Plus! Free to ask when facing a problem!
 - 2025-10-03: 📢 Our paper "RewardMap: Tackling Sparse Rewards in Fine-grained Visual Reasoning via Multi-Stage Reinforcement Learning" is now available on [arXiv](https://arxiv.org/abs/2510.02240)!
 - 2025-10-01: 🚀 We released `RewardMap` and the corresponding [ReasonMap-Plus](https://huggingface.co/datasets/FSCCS/ReasonMap-Plus)!
 
