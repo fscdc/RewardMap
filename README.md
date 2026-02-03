@@ -1,5 +1,5 @@
 <div align="center">
-      <h2><b> RewardMap: Tackling Sparse Rewards in Fine-grained Visual Reasoning via Multi-Stage Reinforcement Learning </b></h2>
+      <h2><b> [ICLR 2026] RewardMap: Tackling Sparse Rewards in Fine-grained Visual Reasoning via Multi-Stage Reinforcement Learning </b></h2>
 </div>
 
 <div align="center">
@@ -19,6 +19,16 @@
 
 </div>
 
+This repository is for our paper:
+
+> **[RewardMap: Tackling Sparse Rewards in Fine-grained Visual Reasoning via Multi-Stage Reinforcement Learning](https://arxiv.org/abs/2510.02240)** \
+> [Sicheng Feng](https://fscdc.github.io/)<sup>1,^</sup>, [Kaiwen Tuo](https://cfintech.github.io/)<sup>1,2,^</sup>, [Song Wang](https://songw-zju.github.io/)<sup>3</sup>, [Lingdong Kong](https://ldkong.com/)<sup>4</sup>, [Jianke Zhu](https://person.zju.edu.cn/en/jkzhu)<sup>3</sup>, [Huan Wang]()<sup>1,*</sup> \
+> <sup>1</sup>Westlake University, Hangzhou, China \
+> <sup>2</sup>Tongji University, Shanghai, China \
+> <sup>3</sup>Zhejiang University, Hangzhou, China \
+> <sup>4</sup>National University of Singapore, Singapore \
+> <sup>^</sup>Equal contribution, <sup>∗</sup>Corresponding author: wanghuan@westlake.edu.cn
+
 ---
 
 >🙋 Please let us know if you find a mistake or have any suggestions!
@@ -31,10 +41,10 @@
 
 ## Updates
 
-- 2026-01-26: 📢 Our paper was accepted by ICLR 2026! Thanks to each contributor!
+- 2026-01-26: 📢 Our paper was accepted by ICLR 2026! Thanks to all contributors!
 - 2025-10-27: 📢 You can use [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) to evaluate ReasonMap-Plus! Free to ask when facing a problem!
 - 2025-10-03: 📢 Our paper "RewardMap: Tackling Sparse Rewards in Fine-grained Visual Reasoning via Multi-Stage Reinforcement Learning" is now available on [arXiv](https://arxiv.org/abs/2510.02240)!
-- 2025-10-01: 🚀 We released `RewardMap` and the corresponding [ReasonMap-Plus](https://huggingface.co/datasets/FSCCS/ReasonMap-Plus)!
+- 2025-10-01: 🚀 Based on [ReasonMap](https://arxiv.org/abs/2505.18675), we released `RewardMap` and the corresponding [ReasonMap-Plus](https://huggingface.co/datasets/FSCCS/ReasonMap-Plus)!
 
 ## Usage
 
@@ -153,9 +163,16 @@ This source code is derived from the PyTorch reimplementation of [Seg-Zero](http
 
 ## Citation
 
-If you find this paper useful in your research, please consider citing our paper:
+If you find this paper useful in your research, please consider citing our papers:
 
 ```bibtex
+@article{feng2025can,
+  title={Can MLLMs Guide Me Home? A Benchmark Study on Fine-Grained Visual Reasoning from Transit Maps},
+  author={Feng, Sicheng and Wang, Song and Ouyang, Shuyi and Kong, Lingdong and Song, Zikai and Zhu, Jianke and Wang, Huan and Wang, Xinchao},
+  journal={arXiv preprint arXiv:2505.18675},
+  year={2025}
+}
+
 @article{feng2025rewardmap,
   title={RewardMap: Tackling Sparse Rewards in Fine-grained Visual Reasoning via Multi-Stage Reinforcement Learning},
   author={Feng, Sicheng and Tuo, Kaiwen and Wang, Song and Kong, Lingdong and Zhu, Jianke and Wang, Huan},
